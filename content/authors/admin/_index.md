@@ -33,6 +33,9 @@ education:
       institution: "Université de Cergy-Pontoise and Université Paris-Sud 11, The
         Laboratory of Theoretical Physics and Statistical Models (LPTMS) "
       year: 2012
+    - course: BSc, Physics
+      institution: University of Novi Sad
+      year: 2012
 superuser: true
 highlight_name: true
 title: Jovan Odavić
