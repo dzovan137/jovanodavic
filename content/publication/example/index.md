@@ -50,7 +50,7 @@ url_source: ""
 url_video: ""
 publication: "Journal of Statistical Mechanics: Theory and Experiment"
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2021-04-16T17:01:14.470Z
 url_slides: ""
 title: Random matrix ensembles in hyperchaotic classical dissipative dynamic systems
 tags: []
