@@ -19,4 +19,3 @@ feature:
     name: Photography
 widget_id: aaa
 ---
-test
