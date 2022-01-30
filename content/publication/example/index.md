@@ -16,7 +16,7 @@ abstract: We study the statistical fluctuations of Lyapunov exponents in the
   complete. Finally, we present evidence supporting the existence of the
   Tracy–Widom distribution in the fluctuation statistics of the largest Lyapunov
   exponent.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
