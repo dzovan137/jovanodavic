@@ -17,4 +17,5 @@ design:
   columns: "2"
   background:
     image: icon.png
+    image_darken: 1
 ---
