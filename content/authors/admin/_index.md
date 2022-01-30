@@ -21,6 +21,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jovan-odavi%C4%87-335046192/
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Jovan-Odavic
+    icon_pack: fab
+    icon: researchgate
 organizations:
   - name: Ruđer Bošković Institute
     url: https://www.irb.hr/
