@@ -7,6 +7,7 @@ interests:
   - Stat-Mech
   - Chaos
   - Integrability
+  - Quantum
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,18 +22,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jovan-odavi%C4%87-335046192/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ruđer Bošković Institute
+    url: https://www.irb.hr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: "PhD in Theoretical Physics "
+      institution: RWTH Aachen University
+      year: 2019
+    - course: MSc in Theoretical Physics and Applications to Complex Systems
+      institution: "Université de Cergy-Pontoise and Université Paris-Sud 11, The
+        Laboratory of Theoretical Physics and Statistical Models (LPTMS) "
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Physics
+      institution: University of Novi Sad
       year: 2008
 superuser: true
 highlight_name: true
