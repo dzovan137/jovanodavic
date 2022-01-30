@@ -1,23 +1,20 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: ""
 url_video: ""
 date: 2020-01-15T02:00:00.000Z
+featured: true
 external_link: ""
 url_slides: ""
 title: HRZZ - Croatian Science Foundation
 subtitle: ""
-tags:
-  - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+tags: []
+links: []
 image:
   caption: ""
   focal_point: Smart
   filename: hrzz-eng.jpg
+  preview_only: true
 url_code: ""
 ---
