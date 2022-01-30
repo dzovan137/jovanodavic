@@ -1,6 +1,6 @@
 ---
 widget: contact
-widget_id: ttt
+widget_id: RECENT-POSTS
 weight: 130
 title: Contact
 subtitle: null
@@ -16,6 +16,6 @@ headless: true
 design:
   columns: "2"
   background:
-    image: icon.png
+    image: ""
     image_darken: 1
 ---
