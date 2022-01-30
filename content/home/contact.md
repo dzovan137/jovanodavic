@@ -15,5 +15,6 @@ content:
 headless: true
 design:
   columns: "2"
+  background:
+    image: icon.png
 ---
-testing stuff
