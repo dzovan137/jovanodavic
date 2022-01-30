@@ -49,7 +49,7 @@ education:
 superuser: true
 highlight_name: true
 title: Jovan Odavić
-email: ""
+email: dzovan90@gmail.com
 ---
 Jovan Odavić is currenly a postdoctal researcher at [Ruđer Bošković Institute](https://www.irb.hr/) working with [Fabio Franchini ](https://people.sissa.it/~ffranchi/)and [Salvatore Marco Giampaolo](https://scholar.google.com/citations?hl=en&user=CnMWs20AAAAJ&view_op=list_works&sortby=pubdate). 
 
