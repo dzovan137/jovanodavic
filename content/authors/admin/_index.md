@@ -1,6 +1,6 @@
 ---
 role: Post-doc
-avatar_filename: mojaslika.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include statistical mechanics, non-linear dynamics
   and low dimensional quantum systems .
 interests:
