@@ -26,16 +26,13 @@ organizations:
     url: https://www.irb.hr/
 education:
   courses:
-    - course: "PhD in Theoretical Physics "
+    - course: "PhD, Condensed Matter Theory and Statistical Mechanics  "
       institution: RWTH Aachen University
       year: 2019
-    - course: MSc in Theoretical Physics and Applications to Complex Systems
+    - course: MSc, Theoretical Physics and Applications to Complex Systems
       institution: "Université de Cergy-Pontoise and Université Paris-Sud 11, The
         Laboratory of Theoretical Physics and Statistical Models (LPTMS) "
-      year: 2009
-    - course: BSc in Physics
-      institution: University of Novi Sad
-      year: 2008
+      year: 2012
 superuser: true
 highlight_name: true
 title: Jovan Odavić
