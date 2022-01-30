@@ -4,10 +4,10 @@ avatar_filename: mojaslika.jpg
 bio: My research interests include statistical mechanics, non-linear dynamics
   and low dimensional quantum systems .
 interests:
-  - Stat-Mech
-  - Chaos
-  - Integrability
-  - Quantum
+  - stat-mech
+  - chaos
+  - integrability
+  - quantum
 social:
   - icon: envelope
     icon_pack: fas
