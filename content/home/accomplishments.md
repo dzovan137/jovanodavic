@@ -2,13 +2,11 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ""
-    date_start: 2021-01-25
-    description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+  - certificate_url: 
+    description: "Frustration is a general state of matter and people. At IRB Q-team. We investigate one of the most basic concpets and identify interesting consequences."
+    organization: 
+    organization_url: 
+    title: Frustrated Quantum Spin Chains
     url: ""
   - certificate_url: https://www.edx.org
     date_end: ""
@@ -30,7 +28,7 @@ widget_id: RECENTS-POSTS
 headless: true
 weight: 50
 title: Interests
-subtitle: what do I do?
+subtitle: Current focus
 design:
   columns: "2"
 ---
