@@ -10,9 +10,10 @@ doi: https://link.aps.org/doi/10.1103/PhysRevE.91.052904
 author_notes:
   - Equal contribution
   - Equal contribution
+  - Equal contribution
 publication_short: Phys. Rev. E
 publication: "Physical Review E. American Physical Society (APS)"
-date: 2015-05-8T17:01:14.470Z
+date: 2015-05-08T17:01:14.470Z
 abstract: The largest Lyapunov exponent has been examined in the dynamical-mode locking phenomena of the ac+dc
 driven dissipative Frenkel-Kontorova model with deformable substrate potential. Due to deformation, large
 fractional and higher order subharmonic steps appear in the response function of the system. Computation of
