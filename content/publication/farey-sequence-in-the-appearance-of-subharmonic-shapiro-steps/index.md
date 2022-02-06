@@ -22,7 +22,7 @@ steps, and their relative sizes follow the Farey construction. In the nonstandar
 steps are larger than harmonic ones, and Farey construction is only present in the appearance of higher order
 subharmonic steps. The examination of Lyapunov exponents has also shown that regardless of the substrate
 potential or deformation, there was no chaos in the system.
-
+summary: We make a link between Farey sequence and dynamical-mode locking in the dissipatively driven Frenkel-Kontorova model. 
 draft: false
 featured: false
 image:
