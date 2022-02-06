@@ -1,5 +1,4 @@
 ---
-abstract: Frustration is a general state of matter and people. At IRB Q-team. We investigate one of the most basic concpets and identify interesting consequences. 
 url_pdf: ""
 summary: "Complex physics from non-extensive geometric frustration. "
 url_video: ""
@@ -8,7 +7,7 @@ featured: true
 external_link: ""
 url_slides: ""
 title: Frustrated Quantum Spin Chains
-subtitle: ""
+subtitle: "Frustration is a general state of matter and people. At IRB Q-team. We investigate one of the most basic concpets and identify interesting consequences."
 tags: [Quantum Many Body, Integrability, Geometrical Frustration, Frustration]
 links: []
 image:
