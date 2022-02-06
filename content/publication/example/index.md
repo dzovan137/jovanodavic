@@ -53,13 +53,13 @@ featured: true
 date: 2021-04-16T17:01:14.470Z
 url_slides: ""
 title: Random matrix ensembles in hyperchaotic classical dissipative dynamic systems
-tags: []
+tags: [Random Matrix Theory, Non-linear Dynamics, Chaos, Poisson, Wigner-Dyson, Lyapunov exponent, Middleton no-passing rule, Overdamped systems]
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: /static/uploads/paperpreviews/RMTdynamics.png
+  filename: "/static/uploads/paperpreviews/RMTdynamics.png"
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
