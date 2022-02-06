@@ -1,7 +1,7 @@
 ---
-
+abstract: Frustration is a general state of matter and people. At IRB Q-team. We investigate one of the most basic concpets and identify interesting consequences. 
 url_pdf: ""
-summary: "At IRB and with the Q-Team Ićm working on the bottom-up approach to frustrated many-body systems. Interesting features such as excess of entropy appears. "
+summary: "Complex physics from non-extensive geometric frustration. "
 url_video: ""
 date: 2020-01-15T02:00:00.000Z
 featured: true
