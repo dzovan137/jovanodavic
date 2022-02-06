@@ -32,7 +32,7 @@ author_notes:
 publication_short: JSTAT
 url_source: ""
 url_video: ""
-publication: "Journal of Statistical Mechanics: Theory and Experiment"
+publication: "Journal of Statistical Mechanics: Theory and Experiment. Sissa (International School for Advanced Studies), IOP Publishing. "
 featured: true
 date: 2021-04-16T17:01:14.470Z
 url_slides: ""
