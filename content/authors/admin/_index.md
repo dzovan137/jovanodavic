@@ -1,8 +1,6 @@
 ---
-role: Post-doc
+role: Post-doc researcher
 avatar_filename: avatar.jpg
-bio: My research interests include statistical mechanics, non-linear dynamics
-  and low dimensional quantum systems .
 interests:
   - Statistical Mechanics
   - Quantum Mechanics
@@ -13,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: #contact
+    link: '#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sofista137
