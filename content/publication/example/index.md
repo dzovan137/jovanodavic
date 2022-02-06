@@ -17,7 +17,7 @@ abstract: We study the statistical fluctuations of Lyapunov exponents in the
   Tracy–Widom distribution in the fluctuation statistics of the largest Lyapunov
   exponent.
 slides: ""
-url_pdf: "/static/uploads/paperpdf/Odavić and Mali - 2021 - Random matrix ensembles in hyperchaotic classical .pdf"
+url_pdf: "static/uploads/paperpdf/Odavić and Mali - 2021 - Random matrix ensembles in hyperchaotic classical .pdf"
 publication_types:
   - "2"
 authors:
