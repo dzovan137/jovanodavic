@@ -4,10 +4,12 @@ avatar_filename: avatar.jpg
 bio: My research interests include statistical mechanics, non-linear dynamics
   and low dimensional quantum systems .
 interests:
-  - stat-mech
-  - chaos
-  - integrability
-  - quantum
+  - Statistical Mechanics
+  - Quantum Mechanics
+  - Complex Systems
+  - Non-linear Dynamics
+  - Chaos Theory
+  - Integrability
 social:
   - icon: envelope
     icon_pack: fas
@@ -55,4 +57,4 @@ Jovan Odavić is currenly a postdoctal researcher at [Ruđer Bošković Institut
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JovanOdavicCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
