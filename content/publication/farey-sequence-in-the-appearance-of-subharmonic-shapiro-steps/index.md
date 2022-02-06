@@ -7,12 +7,12 @@ authors:
   - admin
   - Petar Mali
   - Jasmina Tekić
-doi: https://link.aps.org/doi/10.1103/PhysRevE.91.052904
+doi: https://doi.org/10.1103/PhysRevE.91.052904
 author_notes:
   - Equal contribution
   - Equal contribution
   - Equal contribution
-publication_short: Phys.Rev.E
+publication_short: Phys. Rev. E
 publication: "Physical Review E. American Physical Society (APS)"
 date: 2015-05-08T17:01:14.470Z
 
