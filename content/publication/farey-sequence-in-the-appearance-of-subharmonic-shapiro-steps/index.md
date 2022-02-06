@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Petar&nbsp;Mali
+  - Petar Mali
   - Jasmina&nbsp;Tekić
 doi: https://link.aps.org/doi/10.1103/PhysRevE.91.052904
 draft: false
