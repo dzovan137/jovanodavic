@@ -36,21 +36,22 @@ organizations:
     url: https://www.irb.hr/
 education:
   courses:
-    - course: "PhD, Condensed Matter Theory and Statistical Mechanics "
-      institution: "RWTH Aachen University (prof. dr. Volker Meden and prof. dr. Nicole Helbig)"
+    - course: "PhD, Condensed Matter Theory and Statistical Mechanics  "
+      institution: RWTH Aachen University (prof. dr. Volker Meden and prof. dr. Nicole Helbig)
       year: 2019
-    - course: "MSc, Theoretical Physics and Applications to Complex Systems"
-      institution: "Université de Cergy-Pontoise at the Laboratory of Theoretical Physics and Modelling LPTM (prof. dr. Laura Hernández), and Université Paris-Sud 11 at the Laboratory of Theoretical Physics and Statistical Models LPTMS (prof. dr. Raoul Santachiara) "
+    - course: MSc, Theoretical Physics and Applications to Complex Systems
+      institution: "Université de Cergy-Pontoise and Université Paris-Sud 11 (prof. dr. Laura Hernández), The
+        Laboratory of Theoretical Physics and Statistical Models (LPTMS) (prof. dr. Raoul Santachiara) "
       year: 2014
-    - course: "BSc, Physics"
-      institution: "University of Novi Sad"
+    - course: BSc, Physics
+      institution: University of Novi Sad
       year: 2012
 superuser: true
 highlight_name: true
 title: Jovan Odavić
 email: dzovan90@gmail.com
 ---
-Jovan Odavić is currenly a postdoctal researcher at [Ruđer Bošković Institute](https://www.irb.hr/) working along-side Q-team headed by [Fabio Franchini](https://people.sissa.it/~ffranchi/)and [Salvatore Marco Giampaolo](https://scholar.google.com/citations?hl=en&user=CnMWs20AAAAJ&view_op=list_works&sortby=pubdate). I post relevant information about my work on this webpage. I post papers, talks and different science/technology related topics. 
+Jovan Odavić is currenly a postdoctal researcher at [Ruđer Bošković Institute](https://www.irb.hr/) working along-side Q-team headed by [Fabio Franchini ](https://people.sissa.it/~ffranchi/)and [Salvatore Marco Giampaolo](https://scholar.google.com/citations?hl=en&user=CnMWs20AAAAJ&view_op=list_works&sortby=pubdate). I post relevant information about my work on this webpage. I post papers, talks and different science/technology related topics. 
 
 
 
