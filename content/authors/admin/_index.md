@@ -2,12 +2,12 @@
 role: Postdoctoral researcher
 avatar_filename: avatar.jpg
 interests:
-  - Statistical Mechanics
-  - Quantum Mechanics
-  - Complex Systems
-  - Non-linear Dynamics
-  - Chaos Theory
-  - Integrability [Integrability](https://en.wikipedia.org/wiki/Integrable_system)
+  - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
+  - [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
+  - [Complex Systems](https://en.wikipedia.org/wiki/Complex_system)
+  - [Non-linear Dynamics](https://en.wikipedia.org/wiki/Nonlinear_system)
+  - [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
+  - [Integrability](https://en.wikipedia.org/wiki/Integrable_system)
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,7 +40,7 @@ education:
       institution: RWTH Aachen University (prof. dr. Volker Meden and prof. dr. Nicole Helbig)
       year: 2019
     - course: MSc, Theoretical Physics and Applications to Complex Systems
-      institution: "Université de Cergy-Pontoise and Université Paris-Sud 11 (prof. dr. Laura Hernández), The
+      institution: "Université de Cergy-Pontoise at The Laboratory of Theoretical Physics and Modelling - LPTM (prof. dr. Laura Hernández), and Université Paris-Sud 11 at The
         Laboratory of Theoretical Physics and Statistical Models (LPTMS) (prof. dr. Raoul Santachiara) "
       year: 2014
     - course: BSc, Physics
@@ -51,7 +51,10 @@ highlight_name: true
 title: Jovan Odavić
 email: dzovan90@gmail.com
 ---
-Jovan Odavić is currenly a postdoctal researcher at [Ruđer Bošković Institute](https://www.irb.hr/) working along-side Q-team headed by [Fabio Franchini ](https://people.sissa.it/~ffranchi/)and [Salvatore Marco Giampaolo](https://scholar.google.com/citations?hl=en&user=CnMWs20AAAAJ&view_op=list_works&sortby=pubdate). I post relevant information about my work on this webpage. I post papers, talks and different science/technology related topics. 
+Jovan Odavić is currenly a postdoctal researcher at [Ruđer Bošković Institute](https://www.irb.hr/) working along-side Q-team headed by [Fabio Franchini](https://people.sissa.it/~ffranchi/)and [Salvatore Marco Giampaolo](https://scholar.google.com/citations?hl=en&user=CnMWs20AAAAJ&view_op=list_works&sortby=pubdate). 
+
+
+ I post relevant information about my work on this webpage. I post papers, talks and different science/technology related topics. 
 
 
 
