@@ -36,15 +36,14 @@ organizations:
     url: https://www.irb.hr/
 education:
   courses:
-    - course: "PhD, Condensed Matter Theory and Statistical Mechanics  "
-      institution: RWTH Aachen University (prof. dr. Volker Meden and prof. dr. Nicole Helbig)
+    - course: "PhD, Condensed Matter Theory and Statistical Mechanics "
+      institution: "RWTH Aachen University (prof. dr. Volker Meden and prof. dr. Nicole Helbig)"
       year: 2019
-    - course: MSc, Theoretical Physics and Applications to Complex Systems
-      institution: "Université de Cergy-Pontoise at the Laboratory of Theoretical Physics and Modelling LPTM (prof. dr. Laura Hernández), and Université Paris-Sud 11 at the
-        Laboratory of Theoretical Physics and Statistical Models LPTMS (prof. dr. Raoul Santachiara) "
+    - course: "MSc, Theoretical Physics and Applications to Complex Systems"
+      institution: "Université de Cergy-Pontoise at the Laboratory of Theoretical Physics and Modelling LPTM (prof. dr. Laura Hernández), and Université Paris-Sud 11 at the Laboratory of Theoretical Physics and Statistical Models LPTMS (prof. dr. Raoul Santachiara) "
       year: 2014
-    - course: BSc, Physics
-      institution: University of Novi Sad
+    - course: "BSc, Physics"
+      institution: "University of Novi Sad"
       year: 2012
 superuser: true
 highlight_name: true
