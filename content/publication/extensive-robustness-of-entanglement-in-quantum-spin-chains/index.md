@@ -21,8 +21,7 @@ author_notes:
 publication_short: Poster
 publication: "Benasque Atomtronics 2022 Workshop"
 date: 2022-05-01T17:01:14.470Z
-
-draft: true
+draft: false
 featured: true
 image:
   filename: featured.png
