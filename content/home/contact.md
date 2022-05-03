@@ -9,6 +9,5 @@ weight: 130
 title: Contact
 subtitle:
 
-content:
-  ellooooo
+content: Contact me at: jodavic @ irb.hr
 ---
