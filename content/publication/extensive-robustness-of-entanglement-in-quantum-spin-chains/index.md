@@ -9,7 +9,7 @@ authors:
   - Gianpaolo Torre
   - Davor Davidović
   - Fabio Franchini
-  - Salvatore Marco Giampaolo
+  - Salvatore M. Giampaolo
 doi: https://doi.org/10.1103/PhysRevE.96.022210
 author_notes:
   - Equal contribution

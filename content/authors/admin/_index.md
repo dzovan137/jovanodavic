@@ -2,12 +2,12 @@
 role: Postdoctoral researcher
 avatar_filename: avatar.jpg
 interests:
-  - Statistical Mechanics [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
-  - Quantum Mechanics [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
-  - Complex Systems [Complex Systems](https://en.wikipedia.org/wiki/Complex_system)
-  - Non-linear Dynamics [Non-linear Dynamics](https://en.wikipedia.org/wiki/Nonlinear_system)
-  - Chaos Theory [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
-  - Integrability [Integrability](https://en.wikipedia.org/wiki/Integrable_system)
+  - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
+  - [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
+  - [Complex Systems](https://en.wikipedia.org/wiki/Complex_system)
+  - [Non-linear Dynamics](https://en.wikipedia.org/wiki/Nonlinear_system)
+  - [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
+  - [Integrability](https://en.wikipedia.org/wiki/Integrable_system)
 social:
   - icon: envelope
     icon_pack: fas
