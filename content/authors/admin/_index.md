@@ -51,7 +51,7 @@ highlight_name: true
 title: Jovan Odavić
 email: dzovan90@gmail.com
 ---
-Jovan Odavić is currenly a postdoctal researcher at [Ruđer Bošković Institute](https://www.irb.hr/) working along-side Q-team headed by [Fabio Franchini ](https://people.sissa.it/~ffranchi/)and [Salvatore Marco Giampaolo](https://scholar.google.com/citations?hl=en&user=CnMWs20AAAAJ&view_op=list_works&sortby=pubdate). I post relevant information about my work on this webpage. I post papers, talks and different science/technology related topics. 
+Jovan Odavić is currenly a postdoctal researcher at [Ruđer Bošković Institute](https://www.irb.hr/) working along-side Q-team headed by [Fabio Franchini ](https://people.sissa.it/~ffranchi/)and [Salvatore Marco Giampaolo](https://scholar.google.com/citations?hl=en&user=CnMWs20AAAAJ&view_op=list_works&sortby=pubdate). I post relevant information about my work on this webpage. He post papers, presentations and talks about science and technology related topics. 
 
 
 
